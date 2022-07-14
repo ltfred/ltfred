@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [lab](https://github.com/ltfred/lab)
 
-- 🌱 I’m currently learning **k8s,rust**
+- 🌱 I’m currently learning **k8s,ruby**
 
 - 📝 I regularly write articles on [https://ltfred.cn/](https://ltfred.cn/)
 
