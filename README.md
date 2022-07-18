@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ltfred&label=Profile%20views&color=0e75b6&style=flat-square" alt="ltfred" /> </p>
 
-- 🔭 I’m currently working on [lab](https://github.com/ltfred/lab)
+- 🔭 I’m currently working on [pgl](https://github.com/ltfred/pgl)
 
 - 🌱 I’m currently learning **k8s,ruby**
 
