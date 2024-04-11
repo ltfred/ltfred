@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ltfred&label=Profile%20views&color=0e75b6&style=flat-square" alt="ltfred" /> </p>
 
-- 🔭 I’m currently working on [memo](https://github.com/ltfred/memo)
+- 🔭 I’m currently working on [alacritty-config](https://github.com/ltfred/alacritty-config)
 
 - 🌱 I’m currently learning **k8s,ruby**
-
-- 📝 I regularly write articles on [https://ltfred.cn/](https://ltfred.cn/)
 
 - 📫 How to reach me **nuyoah08@gmail.com**
 
