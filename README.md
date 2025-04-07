@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ltfred&label=Profile%20views&color=0e75b6&style=flat-square" alt="ltfred" /> </p>
 
-- 🔭 I’m currently working on [alacritty-config](https://github.com/ltfred/alacritty-config)
+- 🔭 I’m currently working on [chronos](https://github.com/ltfred/chronos)
 
 - 🌱 I’m currently learning **k8s,ruby**
 
